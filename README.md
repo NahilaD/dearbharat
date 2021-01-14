@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... a research paper
 - 🤔 I’m looking for help with ... colearning.
 - 💬 Ask me about ... optimization and statistics
-- 📫 How to reach me: ... [dearbharat](dearbharat.com)
+- 📫 How to reach me: ... [dearbharat](www.dearbharat.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Physics
 -->
