@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [dearbharat](www.dearbharat.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Physics
+
+[![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=dearbharat)](https://github.com/anuraghazra/github-readme-stats)
+
